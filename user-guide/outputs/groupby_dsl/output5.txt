@@ -1,0 +1,12 @@
+shape: (5, 3)
+┌───────┬────────────────┬────────────────────┐
+│ state ┆ youngest       ┆ oldest             │
+│ ---   ┆ ---            ┆ ---                │
+│ cat   ┆ str            ┆ str                │
+╞═══════╪════════════════╪════════════════════╡
+│ MD    ┆ Frank Kratovil ┆ Benjamin Contee    │
+│ VA    ┆ Scott Taylor   ┆ William Grayson    │
+│ AZ    ┆ Ben Quayle     ┆ Coles Bashford     │
+│ NJ    ┆ Jon Runyan     ┆ Lambert Cadwalader │
+│ PA    ┆ Conor Lamb     ┆ Thomas Fitzsimons  │
+└───────┴────────────────┴────────────────────┘

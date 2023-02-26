@@ -1,0 +1,12 @@
+shape: (5, 4)
+┌───────┬───────────────────┬──────────────────┬────────────────────┐
+│ state ┆ youngest          ┆ oldest           ┆ alphabetical_first │
+│ ---   ┆ ---               ┆ ---              ┆ ---                │
+│ cat   ┆ str               ┆ str              ┆ str                │
+╞═══════╪═══════════════════╪══════════════════╪════════════════════╡
+│ NC    ┆ Madison Cawthorn  ┆ John Ashe        ┆ Abraham Rencher    │
+│ VI    ┆ Donna Christensen ┆ Melvin Evans     ┆ Donna Christensen  │
+│ WY    ┆ Liz Cheney        ┆ Stephen Nuckolls ┆ Alan Simpson       │
+│ TX    ┆ Mayra Flores      ┆ John Cranford    ┆ Abraham Kazen      │
+│ NH    ┆ Frank Guinta      ┆ John Sherburne   ┆ Aaron Cragin       │
+└───────┴───────────────────┴──────────────────┴────────────────────┘
